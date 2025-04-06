@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0048-rotate-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/M-Vaish/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
